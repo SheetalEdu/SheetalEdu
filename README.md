@@ -21,22 +21,19 @@ You can click the Preview link to take a look at your changes.
 
 
 ## CONNECT🔗
-<a href="https://www.linkedin.com/in/sheetal--sharma/">LINKEDIN </a>
+<a href="https://www.linkedin.com/in/sheetal--sharma/">**LINKEDIN**</a>
 
 ## CODING CONNECTION
-<a href="">
-<img alt="Website" height ="50" src="https://img.shields.io/badge/[-Hackerrank-sheetalsharmaed1](https://www.hackerrank.com/profile/sheetalsharmaed1)?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-</a>
+<a href="https://www.hackerrank.com/profile/sheetalsharmaed1"> **HACKERRANK** </a>
+<br>
+<a href="https://leetcode.com/u/SheetalEdu/"> **LEETCODE** </a>
 
 ## TECH-STACK
 <p align="center">
   <a href="">
-  <img alt="Website" height ="100" src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,mysql,github,postman,java"/>
+  <img alt="Website" height ="100" src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,mysql,github,postman,java,vscode"/>
   </a>
 </p>  
-<a href="">
-<img alt="Website" height ="50" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</a>
   
 ## Github Stats📈📈
 <p align="center">
