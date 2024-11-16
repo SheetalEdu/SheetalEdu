@@ -21,14 +21,11 @@ You can click the Preview link to take a look at your changes.
 
 
 ## CONNECT🔗
-
-<a href="">
-<img alt="Website" height ="50" src="https://img.shields.io/badge/LinkedIn-sheetal--sharma?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/sheetal--sharma/">LINKEDIN </a>
 
 ## CODING CONNECTION
 <a href="">
-<img alt="Website" height ="50" src="https://img.shields.io/badge/-Hackerrank-sheetalsharmaed1?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+<img alt="Website" height ="50" src="https://img.shields.io/badge/[-Hackerrank-sheetalsharmaed1](https://www.hackerrank.com/profile/sheetalsharmaed1)?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
 
 ## TECH-STACK
